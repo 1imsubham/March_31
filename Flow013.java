@@ -13,11 +13,12 @@ b=sc.nextInt();
 c=sc.nextInt();
 if((a+b+c)==180)
 {
-System.out.println("YES");
+System.out.println("YEAH");
+System.out.println("MAHAN LADKA");
 }
 else
 {
-System.out.println("NO");
+System.out.println("NOPE");
 }
 }
 }
